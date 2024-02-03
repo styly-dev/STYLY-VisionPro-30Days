@@ -87,3 +87,6 @@ crashlytics-build.properties
 
 # Vscode settings
 .vscode/
+
+# Others
+.DS_Store
