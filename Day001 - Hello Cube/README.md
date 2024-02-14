@@ -4,6 +4,9 @@ By [from2001](https://github.com/from2001)
 
 First things first. Let's make a cube for Vision Pro!!
 
+![Day001](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/0a3be490-bed4-4880-b522-f3be851630b7)
+
+
 ## How to setup a project from scratch
 
 You can use the this Day001 directory as an Unity project template which includes required settings, but you can also prepare a project from scratch.
