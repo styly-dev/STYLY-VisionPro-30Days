@@ -2,7 +2,7 @@
 
 STYLY for Vision Pro: [Download on the App Store](https://apps.apple.com/us/app/styly-for-vision-pro/id6475184828)
 
-STYLY visionOS Plugin for Unity: [Github Repository]()
+STYLY visionOS Plugin for Unity: [Github Repository](https://github.com/styly-dev/STYLY-VisionOS-Plugin/)
 
 | Day     | Screenshot                                                                                                      | Contents                                                                                                                                 |
 | ------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
