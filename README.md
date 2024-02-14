@@ -1,6 +1,8 @@
 # STYLY-VisionPro-30Days
 
-STYLY for Vision Pro: [https://apps.apple.com/us/app/styly-for-vision-pro/id6475184828](https://apps.apple.com/us/app/styly-for-vision-pro/id6475184828)
+STYLY for Vision Pro: [Download on the App Store](https://apps.apple.com/us/app/styly-for-vision-pro/id6475184828)
+
+STYLY visionOS Plugin for Unity: [Github Repository]()
 
 | Day     | Screenshot                                                                                                      | Contents                                                                                                                                 |
 | ------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
