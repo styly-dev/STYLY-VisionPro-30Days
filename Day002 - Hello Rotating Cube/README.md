@@ -3,6 +3,9 @@ By [from2001](https://github.com/from2001)
 
 ## VIsual Scripting Support for STYLY
 
+![Rotating Cubes](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/cd5a34b3-717f-462d-90f9-0e57176ee246)
+
+
 With STYLY plugin, Unity prefab will be built as an asset bundle. Because of the limitation of the architecture, your C# script cannot be included and distributed to STYLY.
 
 However, you can use Unity Visual Scripting to make a logic instead. 
