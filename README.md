@@ -14,3 +14,5 @@ STYLY visionOS Plugin for Unity: [Github Repository](https://github.com/styly-de
 |         |                                                                                                                 |                                                                                                                                          |
 |         |                                                                                                                 |                                                                                                                                          |
 |         |                                                                                                                 |     
+
+You're welcome to freely use, modify, and distribute these samples for any purpose, commercial or non-commercial unless a specific license is indicated in each directory.
