@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Day005_ClockGraph
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-378.5,"y":-352.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-318.0,"y":-522.0},"guid":"2b5c0e67-a896-43b7-b71c-b3129e9a0044","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"9"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Digit
+      Locations for Time","$type":"System.String"},"object":null},"position":{"x":-731.0,"y":-440.0},"guid":"3144a6a0-18d2-4c9b-837f-2454a2b1f855","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Number
+      Objects","$type":"System.String"},"object":null},"position":{"x":-725.0,"y":-278.0},"guid":"dc6aed53-2c4b-46af-807b-0fbc103834eb","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"14"},{"coroutine":false,"defaultValues":{},"position":{"x":-523.0,"y":-711.0},"guid":"19e77057-f594-4654-a196-ef7a2f3f2747","$version":"A","$type":"Unity.VisualScripting.FixedUpdate","$id":"16"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Digit
+      Locations for Date","$type":"System.String"},"object":null},"position":{"x":-733.0,"y":-582.0},"guid":"10621c9a-1372-4e4f-8dc5-2105c9a47961","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"18"},{"sourceUnit":{"$ref":"16"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"Input
+      Triger","guid":"1af51105-f2b3-42e0-bd89-1c6abb8717e0","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"18"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Digit
+      Locations for Date","guid":"e8e34ad4-964e-4235-89f3-fed5057725a6","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Digit
+      Locations for Time","guid":"2ed6a0f3-747e-4940-b055-d6680ab68540","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Number
+      prefabs","guid":"050c4bb5-7aa6-44ff-b7d2-6f85b331ca97","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: e25fd7007ac1848fd8b7db176d7d4955, type: 2}
