@@ -13,6 +13,7 @@ STYLY visionOS Plugin for Unity: [Github Repository](https://github.com/styly-de
 | [Day002](https://github.com/styly-dev/STYLY-VisionPro-30Days/tree/main/Day002%20-%20Hello%20Rotating%20Cube) | ![Rotating Cubes](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/cd5a34b3-717f-462d-90f9-0e57176ee246) | <br />How to make "Hello Rotating Cube"<br /><br />Basic instruction about<br />- Unity Visual Scripting<br /> |
 | [Day003](https://github.com/styly-dev/STYLY-VisionPro-30Days/tree/main/Day003%20-%20Load%20glTF%20glb) | ![Cartoon Prototype Car](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/e853a162-ead6-40a6-b8b8-abfddb1f78e3) | <br />Introduction to load glTF/glb 3D models within Unity Editor and at runtime with Visual Scripting<br /> |
 | [Day004](https://github.com/styly-dev/STYLY-VisionPro-30Days/tree/main/Day004%20-%20Display%20server%20images) | ![Random images](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/ded8879b-9952-486e-8674-f18d4127c843) | <br />How you can handle images on the server<br /> |
+| [Day005](https://github.com/styly-dev/STYLY-VisionPro-30Days/tree/main/Day005-%20Digital%20Clock) | ![Clock](https://github.com/styly-dev/STYLY-VisionPro-30Days/assets/387880/313978ae-539f-41c6-a50d-529ed101d328) | <br />How to make a digital clock<br />Introduction to Visual Scripting Subgraph |
 
 You're welcome to freely use, modify, and distribute these samples for any purpose, commercial or non-commercial unless a specific license is indicated in each directory.
 
