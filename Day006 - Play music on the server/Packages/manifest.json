@@ -41,14 +41,17 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.styly.styly-vision-os-plugin": "0.1.2"
+    "com.styly.styly-vision-os-plugin": "0.1.2",
+    "com.styly.webrequest-visualscripting-nodes": "0.0.4"
   },
   "scopedRegistries": [
     {
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.styly.styly-vision-os-plugin"
+        "com.cysharp.unitask",
+        "com.styly.styly-vision-os-plugin",
+        "com.styly.webrequest-visualscripting-nodes"
       ]
     }
   ]

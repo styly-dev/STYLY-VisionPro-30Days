@@ -30,7 +30,9 @@ MonoBehaviour:
     m_Name: package.openupm.com
     m_Url: https://package.openupm.com
     m_Scopes:
+    - com.cysharp.unitask
     - com.styly.styly-vision-os-plugin
+    - com.styly.webrequest-visualscripting-nodes
     m_IsDefault: 0
     m_Capabilities: 0
     m_ConfigSource: 4
