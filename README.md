@@ -1,5 +1,7 @@
 # STYLY-VisionPro-30Days
 
+Samples of STYLY for Vision Pro moved to [here](https://github.com/styly-dev/STYLY-Spatial-Layer-Plugin/wiki/Content-samples)  
+
 We'll introduce some tips about the Spatial Layer Platform 'STYLY for Vision Pro' in 30 days. 
 
 <img width="600" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/a6/a8/36a6a89a-d413-9487-1b6f-a1545586a583/a66fe693-dc0a-47f2-826a-305b5c81813f_ui_4k__U00281_U0029__U00281_U0029.png/960x540mv.webp">
